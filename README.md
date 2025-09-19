@@ -1,7 +1,6 @@
 # Olá! Eu sou o Antônio Carlos 🇧🇷
 
-Desenvolvedor freelancer que trabalha com **React.js**, **Node.js**, **Java** e **APIs**.  
-Apaixonado por jogos e RPG de mesa — quando não estou codando, tô resolvendo quests imaginárias. 😉
+Desenvolvedor freelancer que trabalha com **React.js**, **Angular**, **TypeScript**, **Node.js**, **Java** e **APIs**.
 
 ---
 
