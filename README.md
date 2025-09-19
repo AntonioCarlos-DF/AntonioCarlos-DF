@@ -32,7 +32,7 @@ Apaixonado por jogos e RPG de mesa — quando não estou codando, tô resolvendo
 ## 📫 Me encontre
 
 - [LinkedIn](https://www.linkedin.com/in/antonio-cbs-junior)  
-- Email: teu.email@exemplo.com  
+- Email: antonio.brasileiro.df@outlook.com
 
 ---
 
