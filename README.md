@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Eu sou o Antônio Carlos 🇧🇷
+# 👋 Olá! Eu sou o Antonio Carlos Brasileiro!
 
 💻 Desenvolvedor **freelancer** especializado em **React.js**, **Angular**, **TypeScript**, **Node.js**, **Java** e **APIs REST**.  
 🎲 Apaixonado por tecnologia, jogos e RPG de mesa.  
