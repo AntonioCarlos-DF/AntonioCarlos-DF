@@ -3,7 +3,7 @@
 # 👋 Olá! Me chamo Antonio Carlos!
 
 💻 Desenvolvedor **freelancer** especializado em **React.js**, **Angular**, **TypeScript**, **Node.js**, **Java** e **APIs REST**.  
-🎲 Apaixonado por tecnologia, jogos e RPG de mesa.  
+🎲 Apaixonado por tecnologias, jogos e programação!
 
 </div>
 
