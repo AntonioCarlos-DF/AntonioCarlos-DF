@@ -47,8 +47,8 @@ Aplicação que utiliza a **Steam API** + **MongoDB** para coletar e analisar re
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonioCarlos-DF&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCarlos-DF&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-six-kohl-92.vercel.app/api?username=AntonioCarlos-DF&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats-six-kohl-92.vercel.app/api/top-langs/?username=AntonioCarlos-DF&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
