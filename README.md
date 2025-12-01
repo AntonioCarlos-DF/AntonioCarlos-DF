@@ -33,9 +33,6 @@ Sistema completo de gerenciamento de empresas e pedidos usando **TypeScript**.
 🔹 [**Steam Reviews**](https://github.com/AntonioCarlos-DF/steam-reviews)  
 Aplicação que utiliza a **Steam API** + **MongoDB** para coletar e analisar reviews.
 
-🔹 [**5e Complete V12**](https://github.com/AntonioCarlos-DF/5e-complete-v12)  
-Compêndio completo para **D&D 5ª edição** integrado ao Foundry VTT.
-
 ---
 
 ## 🔍 Atualmente focado em…
