@@ -3,7 +3,7 @@
 # 👋 Olá! Me chamo Antonio Carlos!
 
 💻 Desenvolvedor **freelancer** especializado em **React.js**, **Angular**, **TypeScript**, **Node.js**, **Java** e **APIs REST**.  
-🎲 Apaixonado por tecnologias, jogos e programação!
+🎲 Apaixonado por tecnologias e programação!
 
 </div>
 
@@ -31,7 +31,7 @@
 Sistema completo de gerenciamento de empresas e pedidos usando **TypeScript**.
 
 🔹 [**Steam Reviews**](https://github.com/AntonioCarlos-DF/steam-reviews)  
-Aplicação que utiliza a **Steam API** + **MongoDB** para coletar e analisar reviews.
+Aplicação que utiliza a **Steam API** + **MongoDB** para coletar e analisar reviews utilizando **React** + **Node**.
 
 ---
 
