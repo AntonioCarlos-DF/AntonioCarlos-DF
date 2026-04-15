@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Olá! Me chamo Antonio Carlos!
+# 👋 Hello! My name is Antonio Carlos!
 
-💻 Desenvolvedor **freelancer** especializado em **React.js**, **Angular**, **TypeScript**, **Node.js**, **Java** e **APIs REST**.  
-🎲 Apaixonado por tecnologias e programação!
+💻 **Freelance developer** specialized in **React.js**, **Angular**, **TypeScript**, **Node.js**, **Java**, and **REST APIs**.  
+🎲 Passionate about technology and programming!
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies and Tools
 
 <div align="center">
 
@@ -18,32 +18,32 @@
 
 <!-- Backend -->
 <p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-ff2d20?style=for-the-badge&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white"/> </p>
-<!-- Database / Infra -->
+<!-- Database / Infrastructure -->
 <p align="left"> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/> </p>
 
 </div>
 
 ---
 
-## 🚀 Projetos de Destaque
+## 🚀 Featured Projects
 
-🔹 [**Gerenciamento de Empresas**](https://github.com/AntonioCarlos-DF/gerenciamento-de-empresas)  
-Sistema completo de gerenciamento de empresas e pedidos usando **TypeScript**.
+🔹 [**Business Management**](https://github.com/AntonioCarlos-DF/gerenciamento-de-empresas)  
+A complete business and order management system built with **TypeScript**.
 
 🔹 [**Steam Reviews**](https://github.com/AntonioCarlos-DF/steam-reviews)  
-Aplicação que utiliza a **Steam API** + **MongoDB** para coletar e analisar reviews utilizando **React** + **Node**.
+An application that uses the **Steam API** + **MongoDB** to collect and analyze reviews using **React** + **Node**.
 
 ---
 
-## 🔍 Atualmente focado em…
+## 🔍 Currently focused on…
 
-- Aprimorar boas práticas com **TypeScript** e **testes automatizados**  
-- Construir **APIs escaláveis e seguras**  
-- Contribuir com **projetos open source** e a comunidade dev  
+- Improving best practices with **TypeScript** and **automated testing**  
+- Building **scalable and secure APIs**  
+- Contributing to **open source projects** and the developer community  
 
 ---
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <div align="center">
 
@@ -54,7 +54,7 @@ Aplicação que utiliza a **Steam API** + **MongoDB** para coletar e analisar re
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <div align="center">
 
@@ -71,8 +71,8 @@ Aplicação que utiliza a **Steam API** + **MongoDB** para coletar e analisar re
 
 <div align="center">
 
-⭐️ **Favoritos:**  
-[Gerenciamento de Empresas](https://github.com/AntonioCarlos-DF/gerenciamento-de-empresas) |  
+⭐️ **Favorites:**  
+[Business Management](https://github.com/AntonioCarlos-DF/gerenciamento-de-empresas) |  
 [Steam Reviews](https://github.com/AntonioCarlos-DF/steam-reviews) |  
 [5e Complete V12](https://github.com/AntonioCarlos-DF/5e-complete-v12)
 
